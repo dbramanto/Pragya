@@ -1,0 +1,14 @@
+timestamp,symbol,decision,confidence_score,rationale
+2025-08-06 22:01:01,XAUUSD (M15),Buy,70.0,ADX menunjukkan tren lemah atau sideways. | Parabolic SAR mengkonfirmasi uptrend. | RSI di area overbought. | MACD crossover bullish.
+2025-08-06 22:01:04,XAUUSD (M15),Buy,70.0,ADX menunjukkan tren lemah atau sideways. | Parabolic SAR mengkonfirmasi uptrend. | RSI di area overbought. | MACD crossover bullish.
+2025-08-06 22:08:58,XAUUSD (M15),Hold,0,Tidak ada konfirmasi sinyal yang kuat.
+2025-08-06 22:09:00,XAUUSD (M15),Hold,0,Tidak ada konfirmasi sinyal yang kuat.
+2025-08-06 22:12:41,XAUUSD (M15),Hold,0,Tidak ada konfirmasi sinyal yang kuat.
+2025-08-07 14:36:21,XAUUSD (M15),Hold,0,Tidak ada konfirmasi sinyal yang kuat.
+2025-08-07 14:36:40,XAUUSD (M15),Hold,0,Tidak ada konfirmasi sinyal yang kuat.
+2025-08-07 14:39:00,XAUUSD (M15),Hold,0,Tidak ada konfirmasi sinyal yang kuat.
+2025-08-08 15:53:58,XAUUSD (M15),Hold,0,Tidak ada konfirmasi sinyal yang kuat.
+2025-08-08 16:17:45,XAUUSD (M15),Buy,100.0,ADX menunjukkan tren lemah atau sideways. | Parabolic SAR mengkonfirmasi uptrend. | MACD crossover bullish. | Sinyal dipaksa Buy untuk tujuan testing.
+2025-08-08 16:19:16,XAUUSD (M15),Buy,100.0,ADX menunjukkan tren lemah atau sideways. | Parabolic SAR mengkonfirmasi uptrend. | MACD crossover bullish.
+2025-08-08 16:20:27,XAUUSD (M15),Buy,100.0,ADX menunjukkan tren lemah atau sideways. | Parabolic SAR mengkonfirmasi uptrend. | MACD crossover bullish.
+2025-08-08 16:21:23,XAUUSD (M15),Buy,100.0,ADX menunjukkan tren lemah atau sideways. | Parabolic SAR mengkonfirmasi uptrend. | MACD crossover bullish.

@@ -1,0 +1,40 @@
+account:
+  account_id: auto
+  broker_name: auto
+  contract_size: auto
+  leverage: auto
+assets:
+  weekday: XAUUSD
+  weekend: BTCUSD
+compound_lot:
+  base_lot: 0.01
+  compound_growth: 1.5
+  max_lot: 2.0
+  min_balance: 100.0
+  reset_on_loss: true
+general:
+  mode: auto
+  save_logs: true
+  symbol: auto
+  timeframe: M15
+  timezone: Asia/Jakarta
+risk_management:
+  max_drawdown: 20.0
+  max_margin_pct: 0.4
+  risk_per_trade: 2.0
+  stop_loss:
+    fallback: 300
+    fibo_level: 0.5
+    method: fibonacci
+    mode: dynamic
+  take_profit:
+    fallback: 500
+    fibo_level: 1.618
+    method: fibonacci
+    mode: dynamic
+  trailing_stop:
+    enabled: true
+    step: 50
+    trigger: 200
+telegram:
+  enabled: true

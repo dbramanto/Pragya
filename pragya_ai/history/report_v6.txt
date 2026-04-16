@@ -1,0 +1,9 @@
+========== Laporan Tuning ==========
+Versi: 6
+Tanggal: 2025-08-06 22:09:00
+total_profit: 250.5
+max_drawdown: 4.5
+sharpe_ratio: 1.8
+total_trades: 499
+
+====================================
